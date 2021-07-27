@@ -1,6 +1,4 @@
 
-//   author e-mail :- 2018UCP1712@mnit.ac.
-// 
 
 // implement find and probabilityy function nicely and enable human in single player /.........;.....
 
